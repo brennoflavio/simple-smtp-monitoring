@@ -1,6 +1,8 @@
 Simple tool to monitior urls using url request / telnet with smtp notification. Keeps track of success and error in a local database.
 
-Without any external dependencies, just python and its standard library
+Without any external dependencies, just python and its standard library.
+
+AGPL licensed.
 
 Usage
 - `cp monitoring.cfg.example monitoring.cfg`
