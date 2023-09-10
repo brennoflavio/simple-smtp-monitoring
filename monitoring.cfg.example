@@ -1,0 +1,14 @@
+[main]
+smtp_host=
+smtp_port=587
+stmp_user=
+smtp_password=
+smtp_from=
+smtp_to=
+starttls=true
+
+[monitoring]
+urls=http://127.0.0.1,
+    127.0.0.1:25,
+    https://example.com,
+    http://example.com
